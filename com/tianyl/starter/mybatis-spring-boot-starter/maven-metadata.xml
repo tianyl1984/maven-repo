@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tianyl.starter</groupId>
+  <artifactId>mybatis-spring-boot-starter</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20161216071742</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.tianyl.starter</groupId>
+  <artifactId>starter-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161216.071739</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161216071739</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20161216.071739-1</value>
+        <updated>20161216071739</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
